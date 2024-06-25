@@ -2,7 +2,7 @@
 ## - Machine Learning Project
 
 ### Summary
-As mask regulations continue to evolve it is more important than ever for governments and businesses to recognize individuals following and not following the appropriate safety guidelines. Based thereon, our goals was to create a solution to better enable the aforementioned stakeholders to identify which individuals are and are not wearing masks. Deep Learning techniques are applied in this project including CNN, MobileNet, and VGG. Different models were compared with accuracy metrics. 
+As mask regulations continue to evolve it is more important than ever for governments and businesses to recognize individuals following and not following the appropriate safety guidelines. Based thereon, our goals was to create a solution to better enable the aforementioned stakeholders to identify which individuals are and are not wearing masks. Deep Learning techniques are applied in this project including CNN, MobileNet, and VGG. Models were compared with accuracy metrics. 
 
 ### Sources in This Project
 Data sources can be found below:
